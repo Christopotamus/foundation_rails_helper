@@ -1,4 +1,4 @@
-# Foundation Rails Helper [![Build Status](https://secure.travis-ci.org/sgruhier/foundation_rails_helper.png)](http://travis-ci.org/sgruhier/foundation_rails_helper)
+# Foundation Rails Helper-AUTO LABELS OFF EDITION
 
 Gem for Rails 4.1+ applications that use the excellent Zurb Foundation framework.
 
